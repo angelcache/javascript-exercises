@@ -21,7 +21,6 @@ const palindromes = function (str) {
   function isAlphaorDigit(str) {
     return /^[a-zA-Z0-9]$/.test(str);
   }
-
 };
 
 // Do not edit below this line
